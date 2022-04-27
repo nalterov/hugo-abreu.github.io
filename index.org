@@ -22,6 +22,8 @@ find some of my photos on my [[https://flickr.com/photos/hugo-abreu][flickr]].
 For more information, you can take a look at my [[./reference/cv_hugo_abreu_04_22.pdf][CV]] in pdf or in the
 [[./about.html][About]] page.
 
+This is the test for an edit!
+
 * Contact
 
 **email**: hugo [dot] abreu [at] etu [dot] sorbonne-universite [dot] fr
